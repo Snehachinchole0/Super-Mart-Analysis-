@@ -1,7 +1,3 @@
-# Super-Mart-Analysis-
-Here’s a sample README for a **Super Mart Sales Analysis EDA** project:
-
----
 
 # Super Mart Sales Analysis - Exploratory Data Analysis (EDA)
 
